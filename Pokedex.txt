@@ -1,0 +1,7 @@
+Charmander
+Fogo
+100
+56
+43
+1
+Air Cutter
