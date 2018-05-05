@@ -4,7 +4,7 @@
 #include<vector>
 #include<fstream>
 #include<string>
-//#include <sstream>
+#include <sstream>
 #include"Pokemons.h"
 
 using namespace std;
@@ -15,7 +15,7 @@ class CJogo
 		void carregar_dados();
 		void mostrar_dados();
 	protected:
-		vector<Pokemons> pokemons();
+		vector<Pokemons> pokemons;
 		
 };
 

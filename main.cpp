@@ -2,7 +2,7 @@
 #include<vector>
 #include<fstream>
 #include<string>
-//#include <sstream>
+#include <sstream>
 #include"CombatMode.h"
 #include"Pokemons.h"
 #include"CJogo.h"

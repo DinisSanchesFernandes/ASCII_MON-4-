@@ -4,7 +4,7 @@
 #include<vector>
 #include<fstream>
 #include<string>
-//#include <sstream>
+#include <sstream>
 #include"Pokemons.h"
 using namespace std;
 

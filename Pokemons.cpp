@@ -2,7 +2,7 @@
 #include<vector>
 #include<fstream>
 #include<string>
-//#include <sstream>
+#include <sstream>
 #include"Pokemons.h"
 using namespace std;
 int Pokemons::get_Health(){
@@ -28,34 +28,34 @@ string Pokemons::get_Name(){
 }
 void Pokemons::set_Health(int vida){
 	Health=vida;
-	cout<<"\n"<<Health;
+//	cout<<"\n"<<Health;
 }
 void Pokemons::set_Attack(int ataque){
 	Attack=ataque;
-	cout<<"\n"<<Attack;
+//	cout<<"\n"<<Attack;
 
 }
 void Pokemons::set_Speed(int velocidade){
 	Speed=velocidade;
-	cout<<"\n"<<Speed;
+//	cout<<"\n"<<Speed;
 
 }
 void Pokemons::set_Numatack(int numero){
 	numatack=numero;
-	cout<<"\n"<<numatack;
+//	cout<<"\n"<<numatack;
 }
 void Pokemons::set_Special(string especial){
 	Especial=especial;
-	cout<<"\n"<<Especial;
+//	cout<<"\n"<<Especial;
 }
 void Pokemons::set_Type(string tipo){
 	Type=tipo;
-	cout<<"\n"<<Type;
+//	cout<<"\n"<<Type;
 
 }
 void Pokemons::set_Name(string nome){
 	Name=nome;
-	cout<<"\n"<<Name;
+//	cout<<"\n"<<Name;
 
 }			
 
