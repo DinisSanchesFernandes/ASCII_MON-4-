@@ -3,7 +3,7 @@
 #include<fstream>
 #include<string>
 #include <sstream>
-#include"CombatMode.h"
+//#include"CombatMode.h"
 #include"Pokemons.h"
 #include"CJogo.h"
 using namespace std;
@@ -11,6 +11,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 CJogo Jogo;
+//Jogo.introduzir_pokemon();
 Jogo.carregar_dados();
 Jogo.mostrar_dados();
 }

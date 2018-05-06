@@ -1,0 +1,7 @@
+Charizard
+Fogo
+30
+40
+4
+50
+Chama Pokemon

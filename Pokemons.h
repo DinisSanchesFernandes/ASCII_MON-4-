@@ -23,10 +23,12 @@ class Pokemons
 		void set_Numatack(int);
 		void set_Special(string);
 		void set_Type(string);	
-		void set_Name(string);			
+		void set_Name(string);
+		void set_nomeAtaques(string);			
 	protected:
 		int Health,Attack,Speed,numatack;
 		string Especial,Type,Name;
+		vector<string> Nome_Attack;
 		
 };
 

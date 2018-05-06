@@ -14,6 +14,7 @@ class CJogo
 	public:
 		void carregar_dados();
 		void mostrar_dados();
+		void introduzir_pokemon();
 	protected:
 		vector<Pokemons> pokemons;
 		

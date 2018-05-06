@@ -1,7 +1,10 @@
-Charmander
-Fogo
-100
-56
-43
-1
-Air Cutter
+Picachu
+Trovao
+20
+30
+2
+Tail Whip
+Thunder Shock	
+50
+Para Raios
+
