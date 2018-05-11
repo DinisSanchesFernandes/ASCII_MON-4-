@@ -1,10 +1,20 @@
 Picachu
 Trovao
 20
+20
 30
 2
 Tail Whip
-Thunder Shock	
+Thunder Shock
 50
 Para Raios
-
+Charmander
+Fogo
+20
+20
+30
+2
+Ember
+Growl
+40
+Blaze

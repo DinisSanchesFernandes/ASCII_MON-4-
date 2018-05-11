@@ -11,6 +11,12 @@ int Pokemons::get_Health(){
 int Pokemons::get_Attack(){
 	return Attack;
 }
+int Pokemons::get_Defense(){
+	return Defense;
+}
+string Pokemons::get_nomeAtaques(int i){
+	return Nome_Attack[i];	
+}	
 int Pokemons::get_Speed(){
 	return Speed;
 }
@@ -51,6 +57,11 @@ void Pokemons::set_Name(string nome){
 	Name=nome;
 
 }
+void Pokemons::set_Defense(int defesa){			//ERRO
+	Defense=defesa;								//ERRO
+}
 void Pokemons::set_nomeAtaques(string nome_ataques){
 	Nome_Attack.push_back(nome_ataques);
 }
+
+
